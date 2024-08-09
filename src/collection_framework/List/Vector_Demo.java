@@ -1,4 +1,4 @@
-package List;
+package collection_framework.List;
 
 import java.util.Vector;
 
@@ -16,5 +16,6 @@ public class Vector_Demo {
         v.addElement("A");
         System.out.println(v.capacity()); // 20
         System.out.println(v); // [1,2,3,4,5,6,7,8,9,10,A]
+
     }
 }

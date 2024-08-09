@@ -1,4 +1,4 @@
-package Set.SortedSet.NavigableSet;
+package collection_framework.Set.SortedSet.NavigableSet;
 
 public class Employee implements  Comparable{
     private int id;
@@ -59,6 +59,7 @@ public class Employee implements  Comparable{
 
     @Override
     public String toString() {
+
         return " id : "+id+" name : "+name+" address : "+address;
     }
 }

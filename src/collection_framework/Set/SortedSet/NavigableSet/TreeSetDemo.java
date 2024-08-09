@@ -1,4 +1,4 @@
-package Set.SortedSet.NavigableSet;
+package collection_framework.Set.SortedSet.NavigableSet;
 
 import java.util.Comparator;
 import java.util.TreeSet;
